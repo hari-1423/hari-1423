@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm HariKrishna</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-- 🔭 I’m currently working on **Mern/Mean Stack**
+- 🔭 I’m currently working on **Mern/Mean Stack Projects**
 
 - 🌱 I’m currently learning **Typescript,Blockchain**
 
